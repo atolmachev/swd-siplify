@@ -2,9 +2,9 @@
 Make code cleaner 
 
 Bad smells:
-1. Method bodies too long
-2. Duplicate code blocks
-3. Methods with too many arguments
-4. Too much nesting (if, try/catch, ...)
-5. Uncliear exception handling
-6. JDK utils underused
+* Method bodies too long
+* Duplicate code blocks
+* Methods with too many arguments
+* Too much nesting (if, try/catch, ...)
+* Uncliear exception handling
+* JDK utils underused
